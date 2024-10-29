@@ -22,6 +22,8 @@ To get the project up and running in IDEA, do:
 - If you get a message about "Non-managed pom.xml file found". Choose "Add as Maven Project"
 - If you get a message about no JDK or SDK being selected. Choose "Configure" and select your installed JDK. You can also set the JDK using File -> Project Structure
 - To start the project, find the "Maven Projects" tab on the right hand side of the screen and navigate to
+
+- MySQL, Oracle, PostgreSQL, Microsoft SQL Server, MongoDB, Redis, Elasticsearch, Cassandra, MariaDB, IBM Db2. Databases are the cornerstone of any Software
   - Vaadin Web Application -> Plugins -> jetty -> jetty:run
   - Click the play button or right click and select Run (Select Debug instead to run in debug mode)
 
